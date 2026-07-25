@@ -1,0 +1,2 @@
+# Optional human-readable zeros export
+# One gamma value per line can be stored here.

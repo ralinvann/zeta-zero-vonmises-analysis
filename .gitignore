@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Generated numeric arrays
+zeros.npy
+
+# macOS
+.DS_Store
