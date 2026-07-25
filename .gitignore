@@ -5,8 +5,8 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# Generated numeric arrays
-zeros.npy
+# Raw source data (keep local, do not version)
+data/*.dat
 
 # macOS
 .DS_Store
